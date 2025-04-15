@@ -14,4 +14,4 @@ Create database comisariato
 php artisan migrate 
 
 ## ejecutar proyecto
-php artisan serve 
+php artisan serve git 
